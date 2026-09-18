@@ -1,4 +1,4 @@
-package com.example.food_nutrient_app
+package com.scanwell.foodnutrition
 
 import io.flutter.embedding.android.FlutterActivity
 
